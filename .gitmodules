@@ -1,0 +1,3 @@
+[submodule "Packages/GuidedTourBuilder"]
+	path = Packages/GuidedTourBuilder
+	url = https://github.com/hapax-artifacts/guided_tour_builder.git
