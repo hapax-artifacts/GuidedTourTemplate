@@ -1,0 +1,19 @@
+{
+    "name": "GuidedTourBuilder",
+    "rootNamespace": "hapaxartifacts.guidedtourbuilder",
+    "references": [
+        "Unity.Timeline",
+        "Unity.TextMeshPro",
+        "Unity.Splines",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
