@@ -1,0 +1,3 @@
+Crear una escena aparte lara los assets. 
+Crear los prefabs y crear los materiales partiendo del material base de probuilder
+Para aplicar color Alt + Shift + num

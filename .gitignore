@@ -1,0 +1,41 @@
+# Unity Packages folder - ignore generated or cache files, but keep source files
+
+# Cache folders
+**/Library/
+**/obj/
+**/Temp/
+**/Build/
+
+# Ignore user-specific or system files inside packages
+**/*.csproj
+**/*.unityproj
+**/*.sln
+**/*.userprefs
+**/*.pidb
+**/*.booproj
+**/*.svd
+**/*.pdb
+**/*.mdb
+**/*.opendb
+**/*.VC.db
+
+# Ignore logs and crash reports
+**/Logs/
+**/CrashReports/
+
+# Ignore generated asset meta files you might want to track manually:
+# (No ignore rule here — keep .meta files for versioning)
+
+# Ignore Unity cache and temporary files
+**/Library/
+**/Temp/
+**/obj/
+**/Build/
+
+# Ignore IDE-specific folders (optional)
+.vscode/
+.idea/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
