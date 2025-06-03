@@ -43,7 +43,7 @@ public class TeleportSegment : Segment
     void OnTriggerEnter(Collider other)
     {
         Debug.Log("Touched");
-        other.GetComponentInParent<RigController>().Teleport(teleportTo);
+        //other.GetComponentInParent<RigController>().Teleport(teleportTo);
 
         touched = true;
     }

@@ -11737,6 +11737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: GuidedTourElements
       objectReference: {fileID: 0}
+    - target: {fileID: 5040032290671596231, guid: 31577ae1ea1de524687c8395930cfa68, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 43.54
+      objectReference: {fileID: 0}
     - target: {fileID: 7443185225385786159, guid: 31577ae1ea1de524687c8395930cfa68, type: 3}
       propertyPath: m_SceneBindings.Array.data[0].value
       value: 
